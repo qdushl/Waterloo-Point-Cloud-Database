@@ -1,4 +1,4 @@
-# WPC Database
+# The WPC Database
 This is an introduction of Waterloo Point Cloud (WPC) database, and it will be publicly available in the future for the academic demands. Please contact Honglei Su (suhonglei@qdu.edu.cn) to get the request of the WPC database and the corresponding password!
 
 -----------COPYRIGHT NOTICE STARTS WITH THIS LINE------------ Copyright (c) 2021 The Qingdao University and University of Waterloo All rights reserved.
