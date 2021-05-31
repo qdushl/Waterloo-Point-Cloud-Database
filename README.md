@@ -10,6 +10,20 @@ Motivated by the lack of source 3D point cloud, we gather acollection of objects
 ![image](https://github.com/qdushl/Waterloo-Point-Cloud-Database/blob/main/Snapshots.jpg)
 ![image](https://github.com/qdushl/Waterloo-Point-Cloud-Database/blob/main/Characteristics.jpg)
 
+Distortion types and parameter setting:
+
+Downsampling: We apply octree-based downsampling to the normalized point clouds. Each dimension is uniformly divided into 2^N intervals, where N represents the octree level. Then points located in the same cube are merged into one node. In this database, we set N to be 7, 8, and 9, respectively, to cover diverse spatial resolutions.
+
+Gaussian noise: White Gaussian noise is added independently to both geometry and texture elements with standard deviation of {0, 2, 4} and {8, 16, 32}, respectively. Then both geometry and texture elements are rounded to the nearest integer, followed by points removal by Meshlab.
+
+G-PCC (T)/S-PCC: G-PCC (Trisoup) reference codec is employed to encode the original point clouds with ‘max NodeSizeLog2’ of {10}, ‘NodeSizeLog2’ of {2, 4, 6} (‘triSoupLevel’ of {4, 6, 8}) and ‘rahtQuantizationStep’ of {64, 128, 256, 512}, respectively.
+
+V-PCC: V-PCC reference codec is employed to encode the original point clouds at three ‘geometryQP’ values and three ‘textureQP’ values, ranging from 35-50 and 35-50, respectively, followed by duplicated points removal.
+
+G-PCC (O)/L-PCC: It employs downsampling method to encode the geometry information, and is thus not performed redundantly. We set the ‘quantizationSteps’ of texture encoding as {16, 32, 48, 64}.
+
+Subjective test：
+
 We choose passive watching instead of interactive watching for subjective tests because the latter creates large variations and inconsistencies in terms of the viewpoints and viewing time between subjects and viewing sessions. We employ Technicolor renderer to render each point cloud to a video sequence. The rendering window, point size and point type parameters are set to 960x960, 1 and `point', respectively. A horizontal and a vertical circle both with a radius of 5,000 are selected successively as the virtual camera path with the center of circles at the geometry center of an object. The remaining parameters are set as default. These settings preserves detail information as much as possible while maintaining the original point clouds to be watertight. One viewpoint is generated every two degrees on these circles, resulting in 360 image frames for each point cloud. Each distorted clip is then concatenated horizontally with its pristine counterpart into a 10-second video sequence for presentation.
 
 More details about raw MOS processing please check our paper.
