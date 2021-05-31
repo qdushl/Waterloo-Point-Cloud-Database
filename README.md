@@ -1,9 +1,9 @@
 # The WPC Database
-This database made by Honglei Su (suhonglei@qdu.edu.cn) from University of Waterloo, we welcome everyone to carry on the test and propose the modification opinion. If you use our database https://drive.google.com/drive/folders/1dHDqKXgvkUhQdUzT7pJjrJ7zRnceFIkO?usp=sharing (a Google account required) in your paper, please cite our paper: 
+This database made by Honglei Su (suhonglei@qdu.edu.cn) from University of Waterloo, we welcome everyone to carry on the test and propose the modification opinion. If you use our database https://drive.google.com/drive/folders/1dHDqKXgvkUhQdUzT7pJjrJ7zRnceFIkO?usp=sharing (a Google account required) in your paper, please cite our papers: 
 
-[1] Qi Liu, Honglei Su, Zhengfang Duanmu et al. Perceptual Quality Assessment of Colored 3D Point Clouds, submitted to IEEE Trans. Broadcasting.
+[1] Qi Liu, Honglei Su, Zhengfang Duanmu et al. Perceptual Quality Assessment of Colored 3D Point Clouds, submitted to IEEE Trans. on Broadcasting.
 
-[2] Honglei Su, Zhengfang Duanmu, Wentao Liu et al., Perceptual Quality Assessment of Colored 3D Point Clouds, 2019 IEEE International Conference on Image Processing (ICIP), IEEE, 2019.
+[2] Honglei Su, Zhengfang Duanmu, Wentao Liu et al., Perceptual Quality Assessment of 3D Point Clouds, 2019 IEEE International Conference on Image Processing (ICIP), IEEE, 2019.
 
 Motivated by the lack of source 3D point cloud, we gather acollection of objects with diverse geometric and textural complexity,  including  snacks,  fruits,  vegetables,  office  supplies,and containers, etc. The selected contents are moderate in sizeand are omni-directionally acquirable. The figures show snapshots of the objects and their characteristics in the WPC database.
 
