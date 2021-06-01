@@ -1,5 +1,5 @@
 # The WPC Database
-This database made by Honglei Su (suhonglei@qdu.edu.cn) from University of Waterloo, we welcome everyone to carry on the test and propose the modification opinion. If you use our database https://drive.google.com/drive/folders/1dHDqKXgvkUhQdUzT7pJjrJ7zRnceFIkO?usp=sharing (a Google account required) in your paper, please cite our papers: 
+This database was created by Honglei Su (suhonglei@qdu.edu.cn) from University of Waterloo in 2018. We welcome everyone to carry on the test and propose the modification opinion. If you use our database https://drive.google.com/drive/folders/1dHDqKXgvkUhQdUzT7pJjrJ7zRnceFIkO?usp=sharing (a Google account required) in your paper, please cite our papers: 
 
 [1] Qi Liu, Honglei Su, Zhengfang Duanmu et al. Perceptual Quality Assessment of Colored 3D Point Clouds, submitted to IEEE Trans. on Broadcasting.
 
