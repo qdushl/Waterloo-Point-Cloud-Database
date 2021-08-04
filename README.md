@@ -22,7 +22,7 @@ publisher={IEEE}
   organization={IEEE}  
 }  
 
-Motivated by the lack of source 3D point cloud, we gather acollection of objects with diverse geometric and textural complexity,  including  snacks,  fruits,  vegetables,  office supplies,and containers, etc. The selected contents are moderate in size and are omni-directionally acquirable. The figure and table show snapshots and characteristics of 20 point clouds in the WPC database. **In addition, the WPC database also contains five other point clouds named Coffee_cup, Croissant, Pear, Salt_box and Sweet_potato**.
+Motivated by the lack of source 3D point cloud, we gather acollection of objects with diverse geometric and textural complexity,  including  snacks,  fruits,  vegetables,  office supplies,and containers, etc. The selected contents are moderate in size and are omni-directionally acquirable. The figure and table show snapshots and characteristics of 20 point clouds in the WPC database. **In addition, the WPC database also contains five other source point clouds named Coffee_cup, Croissant, Pear, Salt_box and Sweet_potato**.
 
 ![image](https://github.com/qdushl/Waterloo-Point-Cloud-Database/blob/main/Snapshots.jpg)
 ![image](https://github.com/qdushl/Waterloo-Point-Cloud-Database/blob/main/Characteristics.png)
