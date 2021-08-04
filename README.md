@@ -5,6 +5,15 @@ This database was created by Honglei Su (suhonglei@qdu.edu.cn) from University o
 
 [2] Honglei Su, Zhengfang Duanmu, Wentao Liu et al., Perceptual Quality Assessment of 3D Point Clouds, 2019 IEEE International Conference on Image Processing (ICIP), IEEE, 2019.
 
+@inproceedings{su2019perceptual,  
+  title={Perceptual quality assessment of 3D point clouds},  
+  author={Su, Honglei and Duanmu, Zhengfang and Liu, Wentao and Liu, Qi and Wang, Zhou},  
+  booktitle={2019 IEEE International Conference on Image Processing (ICIP)},  
+  pages={3182--3186},  
+  year={2019},  
+  organization={IEEE}  
+}  
+
 Motivated by the lack of source 3D point cloud, we gather acollection of objects with diverse geometric and textural complexity,  including  snacks,  fruits,  vegetables,  office  supplies,and containers, etc. The selected contents are moderate in sizeand are omni-directionally acquirable. The figures show snapshots of the objects and their characteristics in the WPC database.
 
 ![image](https://github.com/qdushl/Waterloo-Point-Cloud-Database/blob/main/Snapshots.jpg)
