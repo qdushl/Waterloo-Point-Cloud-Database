@@ -3,6 +3,14 @@ This database was created by Honglei Su (suhonglei@qdu.edu.cn) from University o
 
 [1] Honglei Su, Yuxin Liu, Qi Liu et al., Bitstream-based Perceptual Quality Assessment of Compressed 3D Point Clouds, submitted to IEEE Trans. on Image Processing.
 
+@article{su2021bitstream,  
+title={Bitstream-based Perceptual Quality Assessment of Compressed 3D Point Clouds},  
+author={Su, Honglei and Liu, Yuxin and Liu, Qi and Yuan, Hui and Yang, Huan and Pan, Zhenkuan and Wang, Zhou},  
+journal={IEEE Transactions on Image Processing},  
+year={2021},  
+publisher={IEEE}  
+}  
+
 [2] Honglei Su, Zhengfang Duanmu, Wentao Liu et al., Perceptual Quality Assessment of 3D Point Clouds, 2019 IEEE International Conference on Image Processing (ICIP), IEEE, 2019.
 
 @inproceedings{su2019perceptual,  
@@ -14,7 +22,7 @@ This database was created by Honglei Su (suhonglei@qdu.edu.cn) from University o
   organization={IEEE}  
 }  
 
-Motivated by the lack of source 3D point cloud, we gather acollection of objects with diverse geometric and textural complexity,  including  snacks,  fruits,  vegetables,  office  supplies,and containers, etc. The selected contents are moderate in sizeand are omni-directionally acquirable. The figures show snapshots of the objects and their characteristics in the WPC database.
+Motivated by the lack of source 3D point cloud, we gather acollection of objects with diverse geometric and textural complexity,  including  snacks,  fruits,  vegetables,  office supplies,and containers, etc. The selected contents are moderate in size and are omni-directionally acquirable. The figure and table show snapshots and characteristics of 20 point clouds in the WPC database. **In addition, the WPC database also contains five other point clouds named Coffee_cup, Croissant, Pear, Salt_box and Sweet_potato**.
 
 ![image](https://github.com/qdushl/Waterloo-Point-Cloud-Database/blob/main/Snapshots.jpg)
 ![image](https://github.com/qdushl/Waterloo-Point-Cloud-Database/blob/main/Characteristics.png)
