@@ -1,15 +1,14 @@
 # The WPC Database
 This database was created by Honglei Su (suhonglei@qdu.edu.cn) from University of Waterloo in 2018. We welcome everyone to carry on the test and propose the modification opinion. If you use our database https://drive.google.com/drive/folders/1dHDqKXgvkUhQdUzT7pJjrJ7zRnceFIkO?usp=sharing (a Google account required) in your paper, please cite our papers: 
 
-[1] Honglei Su, Yuxin Liu, Qi Liu et al., Bitstream-based Perceptual Quality Assessment of Compressed 3D Point Clouds, submitted to IEEE Trans. on Image Processing.
+[1] Honglei Su, Qi Liu, Zhengfang Duanmu et al., Perceptual Quality Assessment of Colored 3D Point Clouds, arXiv preprint arXiv:2111.05474.
 
-@article{su2021bitstream,  
-title={Bitstream-based Perceptual Quality Assessment of Compressed 3D Point Clouds},  
-author={Su, Honglei and Liu, Yuxin and Liu, Qi and Yuan, Hui and Yang, Huan and Pan, Zhenkuan and Wang, Zhou},  
-journal={IEEE Transactions on Image Processing},  
-year={2021},  
-publisher={IEEE}  
-}  
+@article{su2021perceptual,
+  title={Perceptual Quality Assessment of Colored 3D Point Clouds},
+  author={Su, Honglei and Liu, Qi and Duanmu, Zhengfang and Liu, Wentao and Wang, Zhou},
+  journal={arXiv preprint arXiv:2111.05474},
+  year={2021}
+}
 
 [2] Honglei Su, Zhengfang Duanmu, Wentao Liu et al., Perceptual Quality Assessment of 3D Point Clouds, 2019 IEEE International Conference on Image Processing (ICIP), IEEE, 2019.
 
