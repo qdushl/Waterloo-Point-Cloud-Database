@@ -3,15 +3,15 @@ This database was created by Honglei Su (suhonglei@qdu.edu.cn) from University o
 
 [1] Q. Liu, H. Su, Z. Duanmu, W. Liu and Z. Wang, "Perceptual Quality Assessment of Colored 3D Point Clouds," in IEEE Transactions on Visualization and Computer Graphics, doi: 10.1109/TVCG.2022.3167151.
 
-@ARTICLE{9756929, 
-  author={Liu, Qi and Su, Honglei and Duanmu, Zhengfang and Liu, Wentao and Wang, Zhou}, 
-  journal={IEEE Transactions on Visualization and Computer Graphics},   
+@ARTICLE{9756929,  
+  author={Liu, Qi and Su, Honglei and Duanmu, Zhengfang and Liu, Wentao and Wang, Zhou},  
+  journal={IEEE Transactions on Visualization and Computer Graphics},    
   title={Perceptual Quality Assessment of Colored 3D Point Clouds},  
-  year={2022}, 
-  volume={}, 
-  number={}, 
-  pages={1-1}, 
-  doi={10.1109/TVCG.2022.3167151} 
+  year={2022},   
+  volume={},   
+  number={},   
+  pages={1-1},   
+  doi={10.1109/TVCG.2022.3167151}   
  } 
 
 [2] Honglei Su, Zhengfang Duanmu, Wentao Liu et al., Perceptual Quality Assessment of 3D Point Clouds, 2019 IEEE International Conference on Image Processing (ICIP), IEEE, 2019.
